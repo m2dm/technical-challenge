@@ -1,2 +1,12 @@
 .DS_Store
 *.swp
+target
+.project
+.pydevproject
+**/__pycache__
+**/.classpath
+**/.cache-main
+**/.settings
+**/target
+**/project
+**/bin
